@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yaqing Zhou (周雅情)"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/yaqing.jpg"
   bio              : "Focusing on human-in-the-loop reinforcement learning"
   location         : "Hefei, China"
   employer         : "University of Science and Technology of China (USTC)"
