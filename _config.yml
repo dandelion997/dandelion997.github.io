@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yaqing Zhou (周雅情)"
   avatar           : "images/yaqing.jpg"
-  bio              : "Focusing on human-in-the-loop reinforcement learning"
+  bio              : # "Focusing on human-in-the-loop reinforcement learning"
   location         : "Hefei, China"
-  employer         : "University of Science and Technology of China (USTC)"
+  employer         : #"University of Science and Technology of China (USTC)"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "yaqing@mail.ustc.edu.cn"
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0009-0006-6927-6517"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
