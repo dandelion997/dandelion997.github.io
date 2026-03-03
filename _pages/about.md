@@ -30,18 +30,34 @@ In 2019, I led a provincial-level innovation and entrepreneurship training progr
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA</div><img src='images/paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Human-in-the-Loop Reinforcement Learning with Risk-Aware Intervention and Imitation](https://doi.org/10.1016/j.eswa.2026.131118)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Yaqing Zhou**, Yun-Bo Zhao , Chenwei Xu, Chen Ouyang, and Pengfei Li
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Paper**](https://www.niclab.ac.cn/assets/pdf/2026-Human-in-the-Loop%20Reinforcement%20Learning%20with%20Risk-Aware%20Intervention%20and%20Imitation.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Introduces a risk-aware framework for human-in-the-loop RL in safety tasks.
+- Combines Bayesian inference and quantile modeling for precise uncertainty estimation.
+- Applicable to a wide range of reinforcement learning algorithms.
 
+</div>
+</div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/paper2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Dual Confidence Evaluation-Based Shared Control Approach for Human-Machine Collaboration](https://doi.org/10.1016/j.neucom.2026.133104)
+
+**Yaqing Zhou**, Yun-Bo Zhao, Pengfei Li, Yu Kang
+
+[**Paper**](https://www.niclab.ac.cn/assets/pdf/2026-A%20Dual%20Confidence%20Evaluation-Based%20Shared%20Control%20Approach%20for%20Human-Machine%20Collaboration.pdf)|[**Code**](https://github.com/dandelion997/HitL_RL_UAV) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- A quantitative evaluation model for human and machine decision confidence is proposed.
+- A confidence-aware shared policy optimization mechanism is developed.
+
+</div>
+</div>
 
 
 # 🎖 Honors and Awards
