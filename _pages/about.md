@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My current research focuses on human-in-the-loop reinforcement learning and embodied AI. I am currently seeking job opportunities. If you are interested, please feel free to contact me at [yaqing@mail.ustc.edu.cn](mailto:yaqing@mail.ustc.edu.cn)!
+My current research focuses on human-in-the-loop reinforcement learning and embodied AI. I am currently seeking job opportunities (求职中). If you are interested, please feel free to contact me at [yaqing@mail.ustc.edu.cn](mailto:yaqing@mail.ustc.edu.cn)!
 
 I graduated from the School of [Mathematics](https://maths.hfut.edu.cn/), Hefei University of Technology (合肥工业大学数学学院) with a bachelor's degree, I pursued graduate studies at the School of [Mathematical Sciences](https://math.ustc.edu.cn/main.htm), University of Science and Technology of China (中国科学技术大学数学学院), advised by [Tusheng Zhang (张土生)](https://faculty.ustc.edu.cn/zhangtusheng/zh_CN/zdylm/996433/list/index.htm). I am currently a Ph.D. candidate at the School of [Information Science and Technology](https://sist.ustc.edu.cn/main.htm), USTC (中国科学技术大学信息与技术学院), advised by [Yun-bo Zhao (赵云波)](https://www.niclab.ac.cn/).
 
-In 2019, I led a provincial-level innovation and entrepreneurship training program for college students, which was rated as excellent (top 5%). In 2020, I was honored with the Outstanding Graduate award from Hefei University of Technology (5 students per college). During my studies, I was repeatedly awarded the Hefei University of Technology First-Class Scholarship (top 5%) and the University of Science and Technology of China First-Class Scholarship (top 30%).
+In 2019, I led a provincial-level innovation and entrepreneurship training program for college students, which was rated as excellent (top 5%). In 2020, I was honored with the Outstanding Graduate award from Hefei University of Technology (top 3%). During my studies, I was repeatedly awarded the Hefei University of Technology First-Class Scholarship (top 5%) and the University of Science and Technology of China First-Class Scholarship (top 30%).
 
 
 # 🔥 News
@@ -30,7 +30,7 @@ In 2019, I led a provincial-level innovation and entrepreneurship training progr
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -38,23 +38,37 @@ In 2019, I led a provincial-level innovation and entrepreneurship training progr
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020 - 2025* First-Class Scholarship, University of Science and Technology of China (Top 20%).
+- *2022 - 2024* Outstanding Communist Party Member (One recipient in the entire grade).
+- *2020.06* Outstanding Graduate, Hefei University of Technology (Top 3%).
+- *2020.04* Outstanding Undergraduate Thesis, Hefei University of Technology (Top 10%).
+- *2021.09* Outstanding Completion of Provincial Innovation and Entrepreneurship Training Program for Undergraduates (Top 5%).
+- *2020 - 2025* First-Class Scholarship, Hefei University of Technology (Top 5%).
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.06 - now*, Ph.D., School of Information Science and Technology, University of Science and Technology of China, Hefei.
+- *2020.09 - 2022.06*, Master, School of Mathematical Sciences, University of Science and Technology of China, Hefei.
+- *2016.09 - 2020.06*, Undergraduate, School of Mathematics, Hefei University of Technology, Hefei.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Project Experience
+- *2025 - 2027*, [人机协同柔性智造关键技术与集成验证](https://www.niclab.ac.cn/projects/%E4%BA%BA%E6%9C%BA%E5%8D%8F%E5%90%8C%E6%9F%94%E6%80%A7%E6%99%BA%E9%80%A0%E5%85%B3%E9%94%AE%E6%8A%80%E6%9C%AF%E4%B8%8E%E9%9B%86%E6%88%90%E9%AA%8C%E8%AF%81), 发改委, 参与.
+- *2023 - 2025*, [人机混合智能系统双层智能测试评估技术研究](https://www.niclab.ac.cn/projects/%E4%BA%BA%E6%9C%BA%E6%B7%B7%E5%90%88%E6%99%BA%E8%83%BD%E7%B3%BB%E7%BB%9F%E5%8F%8C%E5%B1%82%E6%99%BA%E8%83%BD%E6%B5%8B%E8%AF%95%E8%AF%84%E4%BC%B0%E6%8A%80%E6%9C%AF%E7%A0%94%E7%A9%B6), 江淮中心, 参与.
+- *2019 - 2023*, [复杂环境下非完全信息博弈决策的智能基础模型研究](https://www.niclab.ac.cn/projects/%E5%A4%8D%E6%9D%82%E7%8E%AF%E5%A2%83%E4%B8%8B%E9%9D%9E%E5%AE%8C%E5%85%A8%E4%BF%A1%E6%81%AF%E5%8D%9A%E5%BC%88%E5%86%B3%E7%AD%96%E7%9A%84%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E6%A8%A1%E5%9E%8B%E7%A0%94%E7%A9%B6), 军科委, 参与.
+- *2018 - 2019*, 几何迭代法及其在散乱数据点拟合中的应用, 省级大创项目, 主持. 
