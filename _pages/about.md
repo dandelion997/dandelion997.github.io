@@ -17,14 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+My current research focuses on human-in-the-loop reinforcement learning and embodied AI. I am currently seeking job opportunities. If you are interested, please feel free to contact me at [yaqing@mail.ustc.edu.cn](mailto:yaqing@mail.ustc.edu.cn)!
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I graduated from the School of [Mathematics](https://maths.hfut.edu.cn/), Hefei University of Technology (合肥工业大学数学学院) with a bachelor's degree, I pursued graduate studies at the School of [Mathematical Sciences](https://math.ustc.edu.cn/main.htm), University of Science and Technology of China (中国科学技术大学数学学院), advised by [Tusheng Zhang (张土生)](https://faculty.ustc.edu.cn/zhangtusheng/zh_CN/zdylm/996433/list/index.htm). I am currently a Ph.D. candidate at the School of [Information Science and Technology](https://sist.ustc.edu.cn/main.htm), USTC (中国科学技术大学信息与技术学院), advised by [Yun-bo Zhao (赵云波)](https://www.niclab.ac.cn/).
+
+In 2019, I led a provincial-level innovation and entrepreneurship training program for college students, which was rated as excellent (top 5%). In 2020, I was honored with the Outstanding Graduate award from Hefei University of Technology (5 students per college). During my studies, I was repeatedly awarded the Hefei University of Technology First-Class Scholarship (top 5%) and the University of Science and Technology of China First-Class Scholarship (top 30%).
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.01*: &nbsp;🎉 A paper has been accepted for publication in Neurocomputing. 
+- *2026.01*: &nbsp;🎉 A paper has been accepted for publication in Expert Systems With Applications. 
 
 # 📝 Publications 
 
